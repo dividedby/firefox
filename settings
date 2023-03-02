@@ -13,3 +13,5 @@ browser.sessionstore.interval - 60000
 network.http.http3.enable - false
 network.http.http3.enable_0rtt - false
 security.tls.enable_0rtt_data - false
+
+accessibility.force_disabled - 1
