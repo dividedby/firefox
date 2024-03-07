@@ -15,3 +15,5 @@ network.http.http3.enable_0rtt - false
 security.tls.enable_0rtt_data - false
 
 accessibility.force_disabled - 1
+
+dom.serviceWorkers.enabled - false
